@@ -1,0 +1,6 @@
+Azure Healthcare Application Assessment Portfolio
+README.md: architecture overview and explanations for every included screenshot
+DECISIONS.md: design choices, limitations, deployment status and next steps
+screenshots/: selected original screenshots with duplicate copies removed
+
+Excluded intentionally: statefile.png and other state/secret material.
